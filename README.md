@@ -5,4 +5,4 @@ Please note that this text editor is a bit buggy and will lag when used with lar
 
 **DO NOT** use in production.
 
-![Screenshot][scribe.png]
+![Screenshot](scribe.png)
