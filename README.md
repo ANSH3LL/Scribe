@@ -1,5 +1,5 @@
 # Scribe
-Simple tkinter-based code highlighting, saving and execution with primitive theming support.
+Simple tkinter-based text-editor with code highlighting, saving and execution with primitive theming support.
 
 ![Screenshot](scribe.png)
 
